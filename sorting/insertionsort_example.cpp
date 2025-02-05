@@ -3,7 +3,7 @@ using namespace std;
 
 #define N 10
 
-void main(){
+int main(){
     int i, key;
     
     //create array and store numbers to sort

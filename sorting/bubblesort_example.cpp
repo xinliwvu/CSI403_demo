@@ -47,7 +47,7 @@ void printElements(int *array,int length) //print array elements
 */
 
 
-void main()
+int main()
 {
 
     int a[]={9,6,5,23,2,6,2,7,1,8};   // array to sort 
